@@ -1,0 +1,10 @@
+matplotlib~=3.4.3
+numpy~=1.24.2
+opencv_python==4.7.0.72
+torch==1.13.1
+torchinfo~=1.7.0
+torchvision~=0.13.1
+tqdm~=4.64.0
+
+flask~=2.2.2
+werkzeug~=2.2.2
