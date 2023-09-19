@@ -16,7 +16,7 @@ jobs:
       with:
         fetch-depth: '0'
     - name: Install python
-      run: sudo apt -y install python
+      run: sudo apt -y install python3
     - name: Install gitinspector
       run: | 
         pushd ~ &> /dev/null
