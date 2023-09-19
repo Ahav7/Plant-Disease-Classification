@@ -1,0 +1,3 @@
+DenseNet121:
+Training loss: 0.048, training acc: 98.597
+Validation loss: 0.038, validation acc: 98.818
