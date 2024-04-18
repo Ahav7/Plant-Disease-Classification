@@ -66,7 +66,7 @@ When an image is uploaded to the interface, the system processes it and provides
 
 ## Credits
 This project was developed by:
-* Hemanth Krishna Sai Ram Aradhyula
+* Hemanth
 * Koushik Ponugoti
 * Lohith Reddy Nimma
 
